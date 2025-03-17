@@ -1,4 +1,4 @@
-package med.voll.vollmed_api_alura.medico;
+package med.voll.vollmed_api_alura.domain.medico;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
